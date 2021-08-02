@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AlejandroM2000/Resume/static/css/main.efd15dde.chunk.css",
+    "main.js": "/AlejandroM2000/Resume/static/js/main.d21d3355.chunk.js",
+    "main.js.map": "/AlejandroM2000/Resume/static/js/main.d21d3355.chunk.js.map",
+    "runtime-main.js": "/AlejandroM2000/Resume/static/js/runtime-main.069871d4.js",
+    "runtime-main.js.map": "/AlejandroM2000/Resume/static/js/runtime-main.069871d4.js.map",
+    "static/css/2.0a49d93f.chunk.css": "/AlejandroM2000/Resume/static/css/2.0a49d93f.chunk.css",
+    "static/js/2.6de4c03d.chunk.js": "/AlejandroM2000/Resume/static/js/2.6de4c03d.chunk.js",
+    "static/js/2.6de4c03d.chunk.js.map": "/AlejandroM2000/Resume/static/js/2.6de4c03d.chunk.js.map",
+    "static/js/3.3b556bf7.chunk.js": "/AlejandroM2000/Resume/static/js/3.3b556bf7.chunk.js",
+    "static/js/3.3b556bf7.chunk.js.map": "/AlejandroM2000/Resume/static/js/3.3b556bf7.chunk.js.map",
+    "index.html": "/AlejandroM2000/Resume/index.html",
+    "static/css/2.0a49d93f.chunk.css.map": "/AlejandroM2000/Resume/static/css/2.0a49d93f.chunk.css.map",
+    "static/css/main.efd15dde.chunk.css.map": "/AlejandroM2000/Resume/static/css/main.efd15dde.chunk.css.map",
+    "static/js/2.6de4c03d.chunk.js.LICENSE.txt": "/AlejandroM2000/Resume/static/js/2.6de4c03d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.069871d4.js",
+    "static/css/2.0a49d93f.chunk.css",
+    "static/js/2.6de4c03d.chunk.js",
+    "static/css/main.efd15dde.chunk.css",
+    "static/js/main.d21d3355.chunk.js"
+  ]
+}
