@@ -22,7 +22,7 @@ function App() {
      <>
      <Router basename="/Resume"></Router>
      <Navbar />
-      <Route exact path ="/Home" component={Home} />
+      <Route exact path ="/" component={Home} />
      
       <Switch>
         <Route path="/skills" component={Skills}></Route>
