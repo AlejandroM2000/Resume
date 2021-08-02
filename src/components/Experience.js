@@ -17,13 +17,9 @@ class Experience extends Component {
                                         <p><i>ID Tech, REMOTE</i></p>
                                     </h6>
                                     <blockquote>
-                                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-                                    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
-                                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
-                                    pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
-                                    culpa qui officia deserunt mollit anim id est laborum."
+                                      Created an online environment where I would teach at most 
+                                      five students; taught Java, C++, and Scratch; worked as support
+                                      for other instructors
                                     </blockquote>
 
                                 </div>
@@ -40,13 +36,9 @@ class Experience extends Component {
                                         <p><i>PRA Health Sciences, REMOTE</i></p>
                                     </h6>
                                     <blockquote>
-                                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-                                    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in 
-                                    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla 
-                                    pariatur. Excepteur sint occaecat cupidatat non proident, sunt in 
-                                    culpa qui officia deserunt mollit anim id est laborum."
+                                    Worked with Selenide in Java to write automated test cases to
+                                    ensure UI correctness of the MHP application. Also wrote bug tickets
+                                    frequently along with manual testing of the application
                                     </blockquote>
 
                                 </div>

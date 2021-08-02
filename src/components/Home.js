@@ -13,7 +13,7 @@ import About from "./About";
     render() {
         return (
             <section>
-                <Navbar />
+                
                     <div className="container">
                         <div className="row">
                             <div className="col s12 m3">

@@ -35,8 +35,8 @@ import { HashLink as Link } from 'react-router-hash-link';
                                         </Link>
                                     </li>
                                     <li>
-                                        <Link to='/experiences'>
-                                            <i className='fas fa-id-badge'></i>Experiences
+                                        <Link to='/experience'>
+                                            <i className='fas fa-id-badge'></i>Experience
                                         </Link>
                                     </li>
                                     <li>
