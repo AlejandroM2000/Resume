@@ -26,27 +26,22 @@ import { HashLink as Link } from 'react-router-hash-link';
                                 <ul className ='right hide-on-med-and-down'>
                                     <li>
                                         <Link to='/'>
-                                            <i className='fas fa-home'></i>Home
+                                            <i className='fas fa-home'></i> Home
                                         </Link>
                                     </li>
                                     <li>
                                         <Link to='/skills'>
-                                            <i className='fas fa-copy'></i>Skills
+                                            <i className='fas fa-copy'></i> Skills
                                         </Link>
                                     </li>
                                     <li>
                                         <Link to='/experience'>
-                                            <i className='fas fa-id-badge'></i>Experience
+                                            <i className='fas fa-id-badge'></i> Experience
                                         </Link>
                                     </li>
                                     <li>
                                         <Link to='/education'>
-                                            <i className='fas fa-graduation-cap'></i>Education
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link to='/portfolio'>
-                                            <i className='fas fa-address-card'></i>Portfolio
+                                            <i className='fas fa-graduation-cap'></i> Education
                                         </Link>
                                     </li>
                                 </ul>
@@ -73,11 +68,6 @@ import { HashLink as Link } from 'react-router-hash-link';
                             <li>
                                 <Link to='/education'>
                                     <i className='fas fa-graduation-cap'></i>Education
-                                </Link>
-                            </li>
-                            <li>
-                                <Link to='/portfolio'>
-                                    <i className='fas fa-address-card'></i>Portfolio
                                 </Link>
                             </li>
                         </ul>

@@ -4,7 +4,7 @@ class About extends Component {
     render() {
         return (
             <div>
-
+                
                 <div className='card'>
                     <div className='card-content'>
                         <h6 className='mt-bottom'>
@@ -22,13 +22,13 @@ class About extends Component {
                         <div className='row mt'>
                             <div className='col xl7 l6 m6 s12'>
                                 <p>
-                                    <strong>Address:</strong> 2749 Blossom Circle
+                                    <strong>Address:</strong> 3899 Nobel Drive, Apt. 1206, La Jolla, CA, 92122
                                 </p>
                                 <p>
                                     <strong>Phone Number:</strong> (209)662-8131
                                 </p>
                                 <p>
-                                    <strong>Email:</strong> amalanch@ucsd.edu
+                                    <strong>Email:</strong> amalanche1010@gmail.com
                                 </p>
                             </div>
                             <div className="col xl5 l6 m6 s12">

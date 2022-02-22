@@ -25,8 +25,6 @@ import About from "./About";
                                 <Education />
                                 <Experience />
                                 <Skills />
-                                
-                                <Portfolios />
                             </div>
                         </div>
                     </div>   
