@@ -30,7 +30,7 @@ import Navbar from  './Navbar'
                                             <li>Software Engineering</li>
                                             <li>Computer Architecure And Digital Design</li>
                                             <li>Intro to Computer Security</li>
-                                            <li>Computer Networks</li>
+                                            <li>Intro to Computer Networks</li>
                                         </li>
                                     </ul>
                             </div>

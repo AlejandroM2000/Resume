@@ -11,8 +11,8 @@ class About extends Component {
                             <strong>ABOUT ME</strong>
                         </h6>
                         <p className='grey-text'>
-                            Hi! I am currently a Fourth Year Computer Engineering student attending
-                            the University of California, San Diego.
+                            Hello! I am a new graduate from UCSD with a B.S. in Computer Engineering.  I am currrently 
+                            looking for jobs in the Software Industry
                         </p>
                     </div> 
                     <div className='card-action'>

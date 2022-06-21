@@ -10,7 +10,7 @@ import About from './About';
                                 <span className='card-title activator grey-text text-darken-4'>
                                     Alejandro Malanche
                                 </span>
-                                <p>Software QA Engineer Intern at PRA Health Sciences</p>                    
+                                <p>B.S. Computer Engineering @ UCSD '22</p>                    
                         </div>
                 </div>
                 
